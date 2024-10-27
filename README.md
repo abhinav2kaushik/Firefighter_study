@@ -5,12 +5,12 @@ Given the global impact of increasing wildfires associated with climate change, 
 This repository provides the necessary R scripts, data, and intermediate files for reproducing the results and figures presented in the study.
 ### Folder Structure
 - **DNAmethylation/**
-  - `DNAmethylation_analysis.Rproj` - R Project file for DNA methylation analysis & result replication. R script is well annotated.
-  - `DNAmethylation_analysis.R` - Main analysis script
+  - `DNAmethylation_analysis.Rproj` - R Project file for DNA methylation analysis & result replication.
+  - `DNAmethylation_analysis.R` - Main analysis R script (annotated). 
   -  SessionInfo - provides detailed information about the R session used to run the R script.
 - **CyTOF/**
-  - `CyTOF_analysis.Rproj` - R Project file for CyTOF analysis & result replication. R script is well annotated.
-  - `CyTOF_analysis.R` - Main analysis script
+  - `CyTOF_analysis.Rproj` - R Project file for CyTOF analysis & result replication. 
+  - `CyTOF_analysis.R` - Main analysis R script(annotated).
   -  SessionInfo - provides detailed information about the R session used to run the R script.
 - **Files/**
   - Intermediate and processed output files
